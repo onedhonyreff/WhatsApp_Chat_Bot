@@ -1,0 +1,9 @@
+{
+  "OWNER_NUMBER": "628xxxx@s.whatsapp.net",
+  "MAX_TOKEN": 500,
+  "OPENAI_KEY": "<YOUR OPEN AI KEY> | visit = https://platform.openai.com/api-keys>",
+  "PAWAN_OPENAI_KEY": "<YOUR PAWAN KEY> | get it by joining discord channel server at https://discord.com/invite/VCdWGREsmd and follow the instructions. | use existing doni's key as example => pk-wsiWBnPmHOCqsHTQBPMjXmVDLDETsNMLHAeHNttmBzdEdNyY",
+  "SELF_HOSTED_BASE_URL": "<YOUR LOCAL / HOSTED BASE URL> | example => (http or https)://your_host/v1",
+  "PAWAN_BASE_URL": "https://api.pawan.krd/v1",
+  "AI_MODE": "<YOUR AI MODE> | select one from OPEN_AI or PAWAN_KRD_REVERSE or MY_OWN_REVERSE"
+}

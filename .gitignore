@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.DS_Store
+npm-debug.log
+yarn.lock
+yarn-error.log
+node_modules/
+auth_info/
+config.json
